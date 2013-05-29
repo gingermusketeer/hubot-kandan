@@ -1,16 +1,18 @@
 {
-  "name":        "hubot-kandan",
-  "version":     "1.0",
-  "author":      "kandan",
-  "keywords":    "github hubot kandan adapter",
+  "name": "hubot-kandan",
+  "version": "1.0.0",
+  "author": "kandan",
+  "keywords": "github hubot kandan adapter",
   "description": "A Kandan adapter for Hubot",
-  "licenses":     [{
-    "type":       "MIT",
-    "url":        "http://github.com/kandanapp/hubot-kandan/raw/master/LICENSE"
-  }],
-  "repository" : {
-    "type" : "git",
-    "url" : "http://github.com/kandanapp/hubot-kandan.git"
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/kandanapp/hubot-kandan/raw/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/kandanapp/hubot-kandan.git"
   },
   "dependencies": {
     "hubot": "2.4.7",
